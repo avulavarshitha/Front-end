@@ -1,0 +1,17 @@
+.first{
+    background-color:rgb(75, 223, 215);
+    text-align: center;
+
+}
+.second{
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: aqua;
+
+}
+.mybutton:hover{
+    background-color: rgb(9, 221, 37);
+    color: bisque;
+    font-weight: bolder;
+
+}
